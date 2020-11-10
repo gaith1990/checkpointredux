@@ -1,0 +1,8 @@
+.body{display: flex ;
+    justify-content: space-between;
+margin: 0% 5%;
+BORDER: inset;}
+.buttons{display: flex;}
+.task{    font-size: 151%;
+    margin: 3%;}
+    .bdelet{background-color: #f9d4d4 !important;}
